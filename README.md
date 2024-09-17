@@ -14,7 +14,7 @@ This tool extracts business data from the [Washington State Secretary of State C
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/vanyok37/sculptr.git
     cd your-repo
     ```
 
