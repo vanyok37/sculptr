@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "DocumentID": 422557,
+            "DocumentTypeID": 7,
+            "DocumentTypeName": "BUSINESS DOCUMENT",
+            "FileLocation": null,
+            "FileLocationCorrespondence": "WSOSImage_PDFOnly\\1429a7cb-d804-47ee-933e-7dee5d57ef6b.pdf",
+            "FileLocationReceipt": null,
+            "CorrespondenceFileName": "1429a7cb-d804-47ee-933e-7dee5d57ef6b.pdf",
+            "ReceiptFileName": null,
+            "FilingNumber": 0,
+            "TransactionID": 0,
+            "WorkorderID": 0,
+            "BusinessID": 0,
+            "TrademarkID": 0,
+            "RegistrationNo": 0,
+            "IsOnline": false,
+            "FilingDateTime": "2011-01-24T08:47:51",
+            "FilerEmailAddress": null,
+            "UserName": "BATCH JOB",
+            "DocumentTable": "BUSINESSCORRESPONDENCE",
+            "IsPublicVisible": false,
+            "Source": "INHOUSE",
+            "CFTId": null,
+            "CFTType": null,
+            "NumberOfPages": 0,
+            "UncommitedTID": 0,
+            "CreatedDate": "0001-01-01T00:00:00",
+            "FilerID": 0,
+            "UserID": 0,
+            "CreatedBy": 0,
+            "IPAddress": null,
+            "ModifiedBy": 0,
+            "ModifiedIPAddress": null
+        }
+    ]
+]
